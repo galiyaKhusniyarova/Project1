@@ -1,0 +1,5 @@
+Symbol,esg_id,company_name,exchange_symbol,environment_grade,environment_level,social_grade,social_level,governance_grade,governance_level,total_grade,last_processing_date,environment_score,social_score,governance_score
+AAPL,217039,"Apple, Inc.",NASDAQ,BB,Poor,B,Medium,B,Medium,BB,07-07-2022,355,276,255
+META,224010,Facebook,NASDAQ,A,High,B,Medium,B,Medium,BBB,07-07-2022,515,247,245
+AMZN,224110,Amazon,NASDAQ,A,High,BB,Medium,BBB,High,A,07-07-2022,650,323,455
+GOOGL,224210,"Alphabet, Inc.",NASDAQ,BB,Medium,BB,Poor,BB,Medium,A,07-07-2022,350,326,358
