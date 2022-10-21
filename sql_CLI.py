@@ -92,7 +92,7 @@ def run():
         choices = ["default", "my file"]
     ).ask()
     if choice == "default":
-        csv_path = "./FAANG_DATA/res.csv"
+        csv_path = "./Resources/FAANG_DATA/res.csv"
         res_df = pd.read_csv(f'{csv_path}')
     
         res_df = res_df.rename(columns={"Unnamed: 0":"Indicators"})
