@@ -13,6 +13,7 @@ If you want to run the program yourself and/or enter different data, do the foll
 1. To install the project files, go to the GitHub page for the workshop, click on the green Code button, then download the repository as a ZIP file.
 <img width="1035" alt="image" src="https://user-images.githubusercontent.com/111472420/197269988-6f2edd9e-ec58-411d-b2a1-2943d7f899cb.png">
 2. Unpack a zip file into the directory you can operate from in JupyterLab.
+ 
 ![image](https://user-images.githubusercontent.com/111472420/197270505-bd224096-ef5b-49ed-b64d-34a47aa7b19d.png)
 3. Fetch the API data with <i>main1.ipynb</i> or use the original data from <i>/Resources</i>. </br>
 Run the <i>DCF_ESG.ipynb</i> to analyze the data. </i></br>
